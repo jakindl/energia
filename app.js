@@ -32,12 +32,18 @@ fetch('https://dashboard.elering.ee/api/nps/price?start=2020-05-31T20%3A59%3A59.
             return el
         })
         const grouped = groupBy(test, day => day.timestamp)
-        const a = grouped.forEach((value, key) => value.map(i => i.price))
-        console.log(a)
-        const new_group = Object.values(grouped).map(day => {
-            return day.map(point => point.price)
+
+        const average = []
+        grouped.forEach((item) => {
+            // console.log(item)
+            const averagePrice = (item.map((element) => element.price).reduce((acc, value) => acc + value) / item.length).toFixed(2)
+            average.push({
+                'day': item[0].timestamp,
+                'price': averagePrice
+            })
         })
-        console.log(new_group)
+        console.log(average)
+
 
 
         // dataee.forEach((element) => {
@@ -49,11 +55,9 @@ fetch('https://dashboard.elering.ee/api/nps/price?start=2020-05-31T20%3A59%3A59.
         // });
 
         // const date = new Date(time);
-        console.log(price);
-        console.log(date);
         // console.log(stamp);
 
-        const labels = date;
+        const labels = average.map((label) => label.day);
 
         const ctx = document.getElementById('chart').getContext('2d');
         const myChart = new Chart(ctx, {
@@ -61,7 +65,7 @@ fetch('https://dashboard.elering.ee/api/nps/price?start=2020-05-31T20%3A59%3A59.
             data: {
                 labels: labels,
                 datasets: [{
-                    data: price
+                    data: average.map((element) => element.price)
                 }]
             },
             options: {
