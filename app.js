@@ -3,6 +3,7 @@
 // const m = today.getMonth();
 // const start = new Date(y, m, 1).toISOString();
 // const end = new Date(y, m + 1, 0).toISOString();
+
 function groupBy(list, keyGetter) {
     const map = new Map();
     list.forEach((item) => {
@@ -31,7 +32,12 @@ fetch('https://dashboard.elering.ee/api/nps/price?start=2020-05-31T20%3A59%3A59.
             return el
         })
         const grouped = groupBy(test, day => day.timestamp)
-        console.log(grouped)
+        const a = grouped.forEach((value, key) => value.map(i => i.price))
+        console.log(a)
+        const new_group = Object.values(grouped).map(day => {
+            return day.map(point => point.price)
+        })
+        console.log(new_group)
 
 
         // dataee.forEach((element) => {
