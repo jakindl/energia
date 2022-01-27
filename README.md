@@ -14,8 +14,8 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 Projekti eesmärk on võrrelda elektri tarbimise ja Covid-19 haigestunute vahelist seost.
 
 **Töökäik**
-Esimese projektipäeva esimesel tunnil tutvusime üksteisega. Pakkusime välja erinevaid ideid. Arutasime, millisest teemast võiks töö teha. Lõpuks valisime elektri tarbimise ja Covid-19 haigestunute vahelise seose. Uurisime netist, millised andmed meile kättesaadavad on.
-Tegime oma tiimile suhtluskanali Teamsis, kus oleks võimalik infot jagada. Githubis sai tehtud projekt, kuhu hakkasime genereerima teemaga seotud issues'd. Jagasime tiimisiseselt ülesanded laiali, kes mille kallal tööle saaks asuda.
+Esimese projektipäeva esimesel tunnil tutvusime üksteisega. Üks tiimiliige töötas esimesel päeval eemalt. Pakkusime välja erinevaid ideid. Arutasime, millisest teemast võiks töö teha. Lõpuks valisime elektri tarbimise ja Covid-19 haigestunute vahelise seose. Uurisime netist, millised andmed meile kättesaadavad on.
+Tegime oma tiimile suhtluskanali Teamsis, kus oleks võimalik infot jagada. GitHubis sai tehtud projekt, kuhu hakkasime genereerima teemaga seotud issues'id. Jagasime tiimisiseselt ülesanded laiali, kes mille kallal tööle saaks asuda.
 
 **Suhtluskanalid:**
 •	Teams
@@ -23,6 +23,8 @@ Tegime oma tiimile suhtluskanali Teamsis, kus oleks võimalik infot jagada. Gith
 **Töövahendid ja lingid:**
 •	Github
 •	VS Code
+•	Tervise- ja Heaolu Infosüsteemide Keskus avaandmed https://opendata.digilugu.ee 
+•	Chart.js https://chartjs.org 
 
 **Küsimused projekti kohta**
 •	Üks pehme oskus, mida õppisin ja endas arendasin
