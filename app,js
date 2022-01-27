@@ -1,0 +1,55 @@
+
+
+fetch('https://dashboard.elering.ee/api/nps/price?start=2020-05-31T20%3A59%3A59.999Z&end=2020-06-30T20%3A59%3A59.999Z')
+    .then(response => response.json())
+    .then(data1 => {
+
+        dataee = data1.data.ee;
+        const price = [];
+        const date = [];
+
+
+        dataee.forEach((element) => {
+
+            const stamp = new Date(element.timestamp * 1000);
+            price.push(element.price);
+            date.push(stamp);
+        });
+
+        // const date = new Date(time);
+        // console.log(price);
+        console.log(date);
+        // console.log(stamp);
+
+        const labels = [
+            'January',
+            'February',
+            'March',
+            'April',
+            'May',
+            'June',
+        ];
+
+        const ctx = document.getElementById('chart').getContext('2d');
+        const myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    data: price
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+
+    })
+    .catch((error) => {
+        console.error('Error:', error);
+    });
