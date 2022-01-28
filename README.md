@@ -51,8 +51,11 @@ Riivo Matt:
 • Pehme oskus -	Suhtlemine
 •	Üks tehniline oskus - JavaScript
 •	Kõik said tegeleda sama asjaga.
+
 Jana Kindlam:
-•	
+•	Pehme oskus: tiimitöö.
+•	Tehniline oskus: JavaScriptist paremini aru saamine.
+•	Grupijuhendajat ei olnud ja kõik tegid võrdselt kõiki asju. Töödejaotust ka ei olnud, aga siiski oli võimalus päris palju juurde õpida.
 
 Liis Kurm:
 •	Pehme oskus: Teadvustamine, et ma tean, et ma midagi ei tea.
