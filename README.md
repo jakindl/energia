@@ -28,9 +28,9 @@ Kolmandal päeval keskendusime koodi lahtimõtestamisele, README faili kirjutami
 **Töövahendid ja lingid:**
 •	Github
 •	VS Code
-•	Tervise- ja Heaolu Infosüsteemide Keskus avaandmed https://opendata.digilugu.ee 
+•	Tervise- ja Heaolu Infosüsteemide Keskus avaandmed https://opendata.digilugu.ee
 •	https://dashboard.elering.ee/et
-•	Chart.js https://chartjs.org 
+•	Chart.js https://chartjs.org
 •	StackOverflow
 •	YouTube
 
@@ -46,7 +46,9 @@ Johanna Avik:
 * Meie grupp otsustas teha kõike koos nii, et kellegil polnud konkreetset ülesannet. Kõigil oli võimalus teha koodi kaasa ja pakkuda erinevaid vastuseid probleemidele.
 
 Andrus Pajuniit:
-* rr
+* Suhtlemine
+* Javascripti - fetch, cahrt.js kasutamine, map
+* Rolli jaotustseekord ei toimunud
 
 Riivo Matt:
 * Pehme oskus -	Suhtlemine
@@ -61,7 +63,7 @@ Jana Kindlam:
 Liis Kurm:
 * Pehme oskus: Teadvustamine, et ma tean, et ma midagi ei tea.
 * Tehniline oskus: Natuke rohkem JS süntaksist arusaamine
-* Kuna sel korral me ülesandeid omavahel ära ei jaganud, vaid kõik pusisid koos koodist arusaamisega, siis ei oleks tahtnud muud ülesannet tiimis täita. 
+* Kuna sel korral me ülesandeid omavahel ära ei jaganud, vaid kõik pusisid koos koodist arusaamisega, siis ei oleks tahtnud muud ülesannet tiimis täita.
 
 Liisi Kuusküll:
 * Pehme oskus: Meeskonnatöö
