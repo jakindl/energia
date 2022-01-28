@@ -48,7 +48,9 @@ Johanna Avik:
 Andrus Pajuniit:
 •	
 Riivo Matt:
-•	
+• Pehme oskus -	Suhtlemine
+•	Üks tehniline oskus - JavaScript
+•	Kõik said tegeleda sama asjaga.
 Jana Kindlam:
 •	
 
