@@ -47,6 +47,7 @@ Johanna Avik:
 
 Andrus Pajuniit:
 •	rr
+
 Riivo Matt:
 • Pehme oskus -	Suhtlemine
 •	Üks tehniline oskus - JavaScript
