@@ -46,7 +46,7 @@ Johanna Avik:
 * Meie grupp otsustas teha kõike koos nii, et kellegil polnud konkreetset ülesannet. Kõigil oli võimalus teha koodi kaasa ja pakkuda erinevaid vastuseid probleemidele.
 
 Andrus Pajuniit:
-•	
+•	rr
 Riivo Matt:
 • Pehme oskus -	Suhtlemine
 •	Üks tehniline oskus - JavaScript
