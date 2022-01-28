@@ -59,11 +59,11 @@ Jana Kindlam:
 * Grupijuhendajat ei olnud ja kõik tegid võrdselt kõiki asju. Töödejaotust ka ei olnud, aga siiski oli võimalus päris palju juurde õpida.
 
 Liis Kurm:
-•	Pehme oskus: Teadvustamine, et ma tean, et ma midagi ei tea.
-•	Tehniline oskus: Natuke rohkem JS süntaksist arusaamine
-•	Kuna sel korral me ülesandeid omavahel ära ei jaganud, vaid kõik pusisid koos koodist arusaamisega, siis ei oleks tahtnud muud ülesannet tiimis täita. 
+* Pehme oskus: Teadvustamine, et ma tean, et ma midagi ei tea.
+* Tehniline oskus: Natuke rohkem JS süntaksist arusaamine
+* Kuna sel korral me ülesandeid omavahel ära ei jaganud, vaid kõik pusisid koos koodist arusaamisega, siis ei oleks tahtnud muud ülesannet tiimis täita. 
 
 Liisi Kuusküll:
-•	Pehme oskus: Meeskonnatöö
-•	Tehniline oskus: Andmete otsimine, Readme fail.
-•	Ei. Kõik grupiliikmed said tegeleda kõigega.
+* Pehme oskus: Meeskonnatöö
+* Tehniline oskus: Andmete otsimine, Readme fail.
+* Ei. Kõik grupiliikmed said tegeleda kõigega.
