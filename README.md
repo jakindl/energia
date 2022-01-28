@@ -5,7 +5,7 @@ Projekt nr 4, energiahäkk
 2022 projekt nr 4 "Energiahäkk" toimus ajavahemikul 26.01 - 28.01.2022.
 Meie tiim koosnes kahe erineva kursuse õpilastest: TA-20 ja TA-21.
 Tiimiliikmed TA-20: Johanna Avik / Andrus Pajuniit
-Tiimiliikmed TA-21: Riivo Matt / Jana Kindlam / Liis Kurm / Liisi Kuusküll.
+Tiimiliikmed TA-21: Riivo Matt / Jana Kindlam / Liis Kurm / Liisi Kuusküll
 
 **Kust me pärit oleme?**
 Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkvara arenduse erialal.
