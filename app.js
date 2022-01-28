@@ -1,8 +1,9 @@
-// const today = new Date();
-// const y = today.getFullYear();
-// const m = today.getMonth();
-// const start = new Date(y, m, 1).toISOString();
-// const end = new Date(y, m + 1, 0).toISOString();
+const today = new Date();
+
+const y = today.getFullYear();
+const m = today.getMonth();
+const start = new Date(y, m, 1).toISOString();
+const end = new Date(y, m + 1, 0).toISOString();
 
 function groupBy(list, keyGetter) {
     const map = new Map();
@@ -18,8 +19,8 @@ function groupBy(list, keyGetter) {
     return map;
 }
 
-
-fetch('https://dashboard.elering.ee/api/nps/price?start=2020-05-31T20%3A59%3A59.999Z&end=2020-06-30T20%3A59%3A59.999Z')
+fetch(`https://dashboard.elering.ee/api/nps/price?start=${start}&end=${end}`)
+    // fetch('https://dashboard.elering.ee/api/nps/price?start=2020-05-31T20%3A59%3A59.999Z&end=2020-06-30T20%3A59%3A59.999Z')
     .then(response => response.json())
     .then(data1 => {
 
