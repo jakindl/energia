@@ -65,6 +65,9 @@ fetch('https://dashboard.elering.ee/api/nps/price?start=2020-05-31T20%3A59%3A59.
             data: {
                 labels: labels,
                 datasets: [{
+                    label: 'Energia päevahind',
+                    backgroundColor: 'blue',
+                    borderColor: 'blue',
                     data: average.map((element) => element.price)
                 }]
             },
