@@ -58,4 +58,6 @@ Liis Kurm:
 •	Kuna sel korral me ülesandeid omavahel ära ei jaganud, vaid kõik pusisid koos koodist arusaamisega, siis ei oleks tahtnud muud ülesannet tiimis täita. 
 
 Liisi Kuusküll:
-•	
+•	Pehme oskus: Meeskonnatöö
+•	Tehniline oskus: Andmete otsimine, Readme fail.
+•	Ei. Kõik grupiliikmed said tegeleda kõigega.
