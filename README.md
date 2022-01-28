@@ -41,7 +41,9 @@ Kolmandal päeval keskendusime koodi lahtimõtestamisele, README faili kirjutami
 •	Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
 
 Johanna Avik:
-•	
+•	Pehme oskus: -
+* Tehniline oskus: Andmete tõmbamine API-dega
+* Meie grupp otsustas teha kõike koos nii, et kellegil polnud konkreetset ülesannet. Kõigil oli võimalus teha koodi kaasa ja pakkuda erinevaid vastuseid probleemidele.
 
 Andrus Pajuniit:
 •	
